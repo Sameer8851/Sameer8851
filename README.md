@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Chaudhary
 
-🎓 2nd Year Computer Science Student  
+🎓 3rd Year Computer Science Student  
 💼 Aspiring SDE | AI/ML Enthusiast | Web Developer  
 🧠 Currently building: a Mini Operating System Kernel Simulator in C++  
 📚 Focused on mastering DSA in C++ for top SDE roles  
