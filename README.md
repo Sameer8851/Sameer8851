@@ -53,6 +53,7 @@ A Chrome extension that analyzes websites for hidden trackers and privacy risks
 ✅ Practicing DSA daily with a structured, topic-wise approach
 ✅ Completed all major DSA topics including:
 Arrays, Strings, Hashing, Sliding Window, Two Pointers, Trees, Graphs, Greedy Algorithms, Dynamic Programming, Heaps, Backtracking, Tries, Segment Trees, and Advanced Graphs
+
 📌 All problems solved in C++ only
 
 ---
