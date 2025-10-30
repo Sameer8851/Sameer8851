@@ -50,11 +50,11 @@ A Chrome extension that analyzes websites for hidden trackers and privacy risks
 
 ## 📚 DSA Practice – C++ Focus
 
-✅ Practicing DSA daily with a structured, topic-wise approach
-✅ Completed all major DSA topics including:
+✅ Practicing DSA daily with a structured, topic-wise approach  
+✅ **Completed all major DSA topics:**  
 Arrays, Strings, Hashing, Sliding Window, Two Pointers, Trees, Graphs, Greedy Algorithms, Dynamic Programming, Heaps, Backtracking, Tries, Segment Trees, and Advanced Graphs
 
-📌 All problems solved in C++ only
+📌 All problems solved in **C++ only**
 
 ---
 
