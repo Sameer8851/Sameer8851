@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧵 Mini OS Kernel Simulator – Ongoing  
+### 🧵 Mini OS Kernel Simulator ✅ 
 Simulating Operating System concepts from scratch in C++  
 🔹 Memory Management CLI  
 🔹 Paging & Page Tables  
