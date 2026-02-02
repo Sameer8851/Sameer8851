@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sameer Chaudhary
 
 🎓 3rd Year Computer Science Student  
-💼 Aspiring SDE | AI/ML Enthusiast | Web Developer  
-🧠 Currently building: a Mini Operating System Kernel Simulator in C++  
+💼 Aspiring SDE | AI/ML Enthusiast | Web Developer
 📚 Focused on mastering DSA in C++ for top SDE roles  
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Sameer8851&label=Profile+Views&color=0e75b6&style=flat)
